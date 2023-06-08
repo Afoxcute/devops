@@ -8,7 +8,7 @@ console.warn('This is a warning');
 
 
 // VARIABLES - var, let, const
-let age = 30;
+let age = 30000;
 
 // let can be re-assigned, const can not
 age = 31;
